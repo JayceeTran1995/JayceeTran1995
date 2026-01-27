@@ -23,24 +23,19 @@ Hello!, I’m Jaycee Tran, AI Full-Stack & Blockchain Developer with a strong pa
 <div align="center">
   <!-- Languages -->
   <td align="center" width="90">
-    <a href="https://skillicons.dev/icons?i=solidity" target="_blank">
-      <img src="https://skillicons.dev/icons?i=solidity" width="60" height="60" alt="Solidity">
-    </a>
-  </td>
-  <td align="center" width="90">
     <a href="https://skillicons.dev/icons?i=rust" target="_blank">
-      <img src="https://skillicons.dev/icons?i=rust" width="60" height="60" alt="Rust">
+      <img src="https://skillicons.dev/icons?i=rust" width="50" height="50" alt="Rust">
     </a>
   </td>    
   <td align="center" width="90">
-    <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="60" height="60" alt="Ethereum">
+    <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="50" height="50" alt="Ethereum">
   </td>
   <td align="center" width="90">
-    <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="60" height="60" alt="Solana">
+    <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="50" height="50" alt="Solana">
   </td>
   <td align="center" width="90">
    <a href="https://techstack-generator.vercel.app/python-icon.svg" target="_blank">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="MySQL" width="60" height="60">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="MySQL" width="50" height="50">
    </a>
   </td>
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo"  />
