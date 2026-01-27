@@ -22,6 +22,17 @@ Hello!, I’m Jaycee Tran, AI Full-Stack & Blockchain Developer with a strong pa
 
 <div align="center">
   <!-- Languages -->
+
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="Firebase" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase"  height="60" alt="Supabase" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=materialui"  height="60" alt="MaterialUI" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=threejs"  height="60" alt="Three.js" />
+  <img width="12" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" height="60" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="60" alt="cs logo"  />
