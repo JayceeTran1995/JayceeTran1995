@@ -1,11 +1,11 @@
 <div align="center">
     <p align='center'>
-  <img src='https://github-widgetbox.vercel.app/api/profile?username=Jaycee1996&theme=metropolis&data=followers,repositories,stars,commits' />
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=Jaycee1995&theme=metropolis&data=followers,repositories,stars,commits' />
     </p>    
 </div>
 
 <p align="center">
-  <a href="https://github.com/Jaycee1996">
+  <a href="https://github.com/Jaycee1995">
     <img src="https://readme-typing-svg.demolab.com/?lines=AI%20Full-Stack%20Developer;AI,%20Blockchain%20Developer;Full-Stack%20Engineer;9+Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=34&center=true&vCenter=true&width=500&height=60&color=f75c7e&pause=1000" align="center" /></a>
 </p>
 
@@ -13,7 +13,7 @@
 Hello!, I’m Jaycee Tran, AI Full-Stack & Blockchain Developer with a strong passion for building intelligent, scalable, and secure digital solutions. Experienced in modern web technologies including React, Next.js, Node.js, Python, and TypeScript, combined with hands-on expertise in smart-contract development and decentralized applications. Skilled in designing seamless UI/UX experiences, integrating AI models into real products, and deploying DApps across leading blockchain networks. Dedicated to delivering high-performance systems, solving complex technical challenges, and contributing to future-focused projects at the intersection of AI and blockchain innovation.
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Jaycee1996&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Jaycee1995&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
     <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaycee1996&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </div>
 # 💻 Tech Stack:
@@ -162,7 +162,7 @@ Hello!, I’m Jaycee Tran, AI Full-Stack & Blockchain Developer with a strong pa
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaycee1996&radius=16&bg_color=1a1b27&color=c0caf5&line=9e4c98&point=f7768e&area=true&hide_border=true" height="300" alt="activity-graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaycee1995&radius=16&bg_color=1a1b27&color=c0caf5&line=9e4c98&point=f7768e&area=true&hide_border=true" height="300" alt="activity-graph" />
 </div>
 
 ###
