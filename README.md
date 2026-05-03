@@ -136,7 +136,7 @@ Hello!, I’m Jaycee Tran, AI Full-Stack & Blockchain Developer with a strong pa
 ###
 
 <div align="center">
-<img src="https://count.getloli.com/@Hunterdii?name=Hunterdii&theme=green&darkmode=0" height="430" width="430">
+<img src="https://count.getloli.com/@Hunterdii?name=Hunterdii&theme=green&darkmode=0"  width="430">
 </div>
 
 
