@@ -20,17 +20,13 @@ Hello!, I’m Jaycee Tran, AI Full-Stack & Blockchain Developer with a strong pa
 <div align="center">
   <!-- Languages -->
 
-  <td align="center" width="90">
-    <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="50" height="50" alt="Ethereum">
-  </td>
-  <td align="center" width="90">
-    <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="50" height="50" alt="Solana">
-  </td>
-  <td align="center" width="90">
-   <a href="https://techstack-generator.vercel.app/python-icon.svg" target="_blank">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="MySQL" width="50" height="50">
-   </a>
-  </td>
+
+  <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" height="60" alt="c++ logo"  />
+  <img width="12" />
+  <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" height="60" alt="c++ logo"  />
+  <img width="12" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" height="60" alt="c++ logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="60" alt="cs logo"  />
