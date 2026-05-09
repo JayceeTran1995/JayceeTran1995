@@ -148,11 +148,13 @@ Hello!, I’m Jaycee Tran, AI Full-Stack & Blockchain Developer with a strong pa
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
 </picture>
 
+</br>
 
+<div align="center">
+<img src="https://count.getloli.com/@Hunterdii?name=jayceetran1995&theme=booru-lewd&darkmode=0&num=0123456789&padding=10"  width="530"> 
+</div>
 
-
-
-
+</br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayceeTran1995&radius=16&bg_color=1a1b27&color=c0caf5&line=9e4c98&point=f7768e&area=true&hide_border=true" height="300" alt="activity-graph" />
